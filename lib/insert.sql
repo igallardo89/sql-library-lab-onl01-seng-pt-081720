@@ -24,4 +24,19 @@ INSERT INTO subgenres (name) VALUES ("Fiction"),
 INSERT INTO authors (name) VALUES ("Illiana Gal"),
 ("Elvis Be");
 
-INSERT INTO character_books (book_id, character_id) VALUES ()
+INSERT INTO character_books (book_id, character_id) VALUES (2,3),
+(2,3),
+(2,3),
+(2,3),
+(2,3),
+(2,3),
+(2,3),
+(2,3),
+(2,3),
+(2,3),
+(2,3),
+(2,3),
+(2,3),
+(2,3),
+(2,3),
+(2,3);
