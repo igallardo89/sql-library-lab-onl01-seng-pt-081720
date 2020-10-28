@@ -1,1 +1,1 @@
-ALTHER 
+UPDATE characters SET species = "Martian"
