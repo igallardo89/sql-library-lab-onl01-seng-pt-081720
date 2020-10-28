@@ -8,7 +8,13 @@ INSERT INTO books (title, year, series_id) VALUES ("James Potter", 4, 9),
 ("Cho Potter", 9, 15),
 ("Ron Potter", 10, 16);
 
-INSERT INTO characters (name, species, title, motto, author_id) VALUES ()
-
+INSERT INTO characters (name, species, title, motto, author_id) VALUES ("Jamie","Alligator", "I use to jump high", "Yipee",4),
+("Jamie","Alligator", "I use to jump high", "Yipee",4),
+("Jamie","Alligator", "I use to jump high", "Yipee",4),
+("Jamie","Alligator", "I use to jump high", "Yipee",4),
+("Jamie","Alligator", "I use to jump high", "Yipee",4),
+("Jamie","Alligator", "I use to jump high", "Yipee",4),
+("Jamie","Alligator", "I use to jump high", "Yipee",4),
+("Jamie","Alligator", "I use to jump high", "Yipee",4);
 
 
