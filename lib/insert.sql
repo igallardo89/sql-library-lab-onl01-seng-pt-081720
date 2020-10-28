@@ -18,5 +18,5 @@ INSERT INTO characters (name, species, title, motto, author_id) VALUES ("Jamie",
 ("Jamie","Alligator", "I use to jump high", "Yipee",4);
 
 
-INSERT INTO subgenres (name)
+INSERT INTO subgenres (name) VALUES ("Josie"),
 
